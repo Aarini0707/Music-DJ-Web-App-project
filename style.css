@@ -1,0 +1,13 @@
+body{
+    background-size: 90%;
+}
+
+.heading{
+    width: 100%;
+    box-shadow: 5px 5px green;
+}
+
+canvas{
+    border: 5px solid ghostwhite;
+    border-radius: 20px;
+}
